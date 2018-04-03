@@ -1,2 +1,4 @@
 # weight_iot
-this is the code for the we
+Code for iot weight notification
+This code code runs on a raspberry pi 
+
